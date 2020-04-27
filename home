@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body style="background-image: url('backgroundSunset.jpg');">
+
+<h2 id="repeatingText"> Sunsets of California   |   Sunsets of California   |   Sunsets of California   |  Sunsets of California   |  Sunsets of California   |  Sunsets of California  |   Sunsets of California   |  Sunsets of California</h2>
+
+<h1 id="homepageHeader"> Sunsets of California</h1>
+
+<h2 id="repeatingText2"> Sunsets of California   |   Sunsets of California   |   Sunsets of California   |  Sunsets of California   |  Sunsets of California   |  Sunsets of California  |   Sunsets of California   |  Sunsets of California</h2>
+
+
+
+<img id="homeSunsetSF1" src="sunset1.jpg"  height="300" width="400">
+<img id="homeSunsetSF2" src="sunset1.jpg"  height="300" width="400">
+<img id="homeSunsetSF3" src="sunset1.jpg"  height="300" width="400">
+
+<img id="homeSunsetLA1" src="sunset8.jpg"  height="300" width="400">
+<img id="homeSunsetLA2" src="sunset8.jpg"  height="300" width="400">
+<img id="homeSunsetLA3" src="sunset8.jpg"  height="300" width="400">
+
+<a id="page1link" href="page1.html">San Francisco sunsets</a>
+<a id="page2link" href="page2.html">Los Angeles sunsets</a>
+
+
+</body>
+</html>
